@@ -1,0 +1,91 @@
+h1{
+    
+    color: rgb(255, 162, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h5{
+    color: black;
+    font-style: inherit;
+    text-align: center;
+}
+button{
+    border: 2px 2px 2px 2px;
+background-color: red;
+    
+    color: white;
+    justify-content: cente;
+    align-items: cente;
+    margin-top: 5px;
+    border-radius: 2px;
+position: absolut;
+right: 170px;
+top: 220px;
+width: 220px;
+height: 30px;
+border-radius: 5px;
+}
+input{
+    
+    
+    font-style: italic;
+
+    width: 300px;
+    padding: 15px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    border: 1px solid white;
+    background-color: transparent;
+    color:white;
+    border-radius: 10px;
+}
+
+    
+
+
+
+.social{
+   padding: 20px; 
+    
+    display: flex;
+    align-items: center;
+   
+    gap: 10px;
+    margin-top: 40px;
+    justify-content: center;
+  
+}
+body{
+  
+ 
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #dd0808;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image:url(https://karanartscollege.edu.in/wp-content/uploads/2019/03/karan-slider5.jpg)
+}
+.login-container{
+
+    align-items: center;
+    
+    background-color: rgba(210, 60, 60, 0.512);
+    padding: 5px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px red;
+    text-align: center;
+    max-width: 400px;
+   justify-content:cente;
+   
+    border: 1px solid white;
+    padding: 0px;
+  
+}
+.logo{
+    width: 250px;
+    margin-bottom: 20px;
+transform: rotate(180deg);
+animation: alternate;
+}
